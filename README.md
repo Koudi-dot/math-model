@@ -1,4 +1,4 @@
-Для корректного отображения формул откройте сайт на [GitHub pages](https://alepoydes.github.io/introduction-to-numerical-simulation/).
+Для корректного отображения формул откройте сайт на [GitHub pages](https://Koudi-dot.github.io/math-model/).
 
 # Лекции
 
